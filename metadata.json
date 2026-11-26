@@ -1,0 +1,6 @@
+{
+  "name": "Rachid Store | محل رشيد",
+  "description": "متجر الحي المغربي للتموين اليومي، الألبان والمخبوزات، المشروبات، التنظيف والمستلزمات المنزلية بالدرهم المغربي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
